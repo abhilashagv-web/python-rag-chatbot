@@ -1,0 +1,9 @@
+What is a Python function?
+What keyword is used to define a function?
+What are the different Python data types?
+What is a list in Python?
+What is a dictionary in Python?
+What are conditional statements in Python?
+What are loops in Python?
+What is exception handling in Python?
+What are good Python programming practices?

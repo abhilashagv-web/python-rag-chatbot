@@ -1,0 +1,37 @@
+Python Programming Guide
+
+1. What is Python?
+Python is a general-purpose programming language designed to make code readable and easy to write. It is commonly used for automation, web development, data analysis, and artificial intelligence.
+
+2. Variables and Data Types
+A variable stores a value. Common Python data types include int for whole numbers, float for decimal numbers, str for text, and bool for True or False values.
+
+3. Lists
+A list stores multiple values in an ordered collection. Lists can contain numbers, strings, or other objects. Items can be accessed by their position, starting at index 0.
+
+4. Dictionaries
+A dictionary stores information as key-value pairs. A key is used to retrieve its associated value.
+
+5. Conditional Statements
+Python uses if, elif, and else to choose between different paths. A condition is evaluated as True or False.
+
+6. Loops
+A for loop is commonly used to iterate through items in a collection. A while loop repeats while its condition remains True.
+
+7. Functions
+A function is a reusable block of code defined with the def keyword. Functions can accept parameters and can return a result using return.
+
+8. Exception Handling
+Python can handle expected runtime problems with try and except blocks.
+
+9. Modules
+A module is a Python file containing reusable code. The import statement allows code from a module to be used in another Python program.
+
+10. Reading a File
+Python can read text files with open(). Using a with statement is recommended because it automatically handles closing the file.
+
+11. Object-Oriented Programming
+A class defines a blueprint for objects. Objects can contain attributes and methods.
+
+12. Good Python Practices
+Use meaningful names, handle expected errors, avoid unnecessary duplication, and keep functions focused. Small, readable programs are easier to test and maintain.
