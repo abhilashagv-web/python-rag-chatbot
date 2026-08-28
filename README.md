@@ -1,5 +1,6 @@
 # Python RAG Chatbot
 
+<<<<<<< HEAD
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions using a Python programming document.
 
 ## Features
@@ -46,3 +47,42 @@ Install the dependencies:
 
 ```bash
 pip install -r requirements.txt
+=======
+A Retrieval-Augmented Generation (RAG) chatbot that answers questions using information from a Python programming document.
+
+## Features
+
+- Retrieves relevant information using FAISS
+- Uses Hugging Face embeddings for semantic search
+- Uses Groq LLM to generate answers
+- Streamlit web interface
+- Displays source documents and similarity scores
+
+## Technologies Used
+
+- Python
+- LangChain
+- FAISS
+- Hugging Face Embeddings
+- Groq
+- Streamlit
+
+## Project Structure
+
+```text
+CodingAtom-RAG/
+├── data/
+│   └── python_guide.txt
+├── evals/
+│   └── questions.txt
+├── src/
+│   ├── app.py
+│   ├── main.py
+│   └── query.py
+├── vectorstore/
+│   ├── index.faiss
+│   └── index.pkl
+├── .gitignore
+├── requirements.txt
+└── README.md
+>>>>>>> d209cb3 (Add project README)
