@@ -1,5 +1,8 @@
 # Python RAG Chatbot
 
+## Live Demo
+[Open Python RAG Chatbot](https://python-rag-chatbot-k3zfucywfbwystvawpg986.streamlit.app/)
+
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions using a Python programming document.
 
 ## Features
